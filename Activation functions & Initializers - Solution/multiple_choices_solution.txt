@@ -1,0 +1,13 @@
+Activation functions & Initializers Exercise - Multiple choices answers
+1. D
+2. C
+3. C
+4. D
+5. D
+6. A
+(optional) 7a. A
+(optional) 7b. C
+(optional) 7c. A
+(optional) 8a. A
+(optional) 8b. B
+(optional) 8c. B
